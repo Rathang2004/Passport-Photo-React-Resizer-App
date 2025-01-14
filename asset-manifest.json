@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Passport-Photo-React-Resizer-App/static/css/main.f855e6bc.css",
+    "main.js": "/Passport-Photo-React-Resizer-App/static/js/main.98695231.js",
+    "static/js/146.f1b96dc1.chunk.js": "/Passport-Photo-React-Resizer-App/static/js/146.f1b96dc1.chunk.js",
+    "index.html": "/Passport-Photo-React-Resizer-App/index.html",
+    "main.f855e6bc.css.map": "/Passport-Photo-React-Resizer-App/static/css/main.f855e6bc.css.map",
+    "main.98695231.js.map": "/Passport-Photo-React-Resizer-App/static/js/main.98695231.js.map",
+    "146.f1b96dc1.chunk.js.map": "/Passport-Photo-React-Resizer-App/static/js/146.f1b96dc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.98695231.js"
+  ]
+}
